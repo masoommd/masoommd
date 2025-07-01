@@ -10,10 +10,7 @@
 
 <div align="center">
  
-### Passionate Full Stack Developer with expertise in building scalable web applications using the MERN stack.
-Proven ability to deliver projects like an Airbnb-like platform and a job portal, leveraging modern tools like React,
-Node.js, and cloud services. Strong problem-solving skills with 350+ coding challenges solved on platforms like
-LeetCode. Thrive in collaborative environments and enjoy solving complex technical challenges.
+### Passionate Full Stack Developer with expertise in building scalable web applications using the MERN stack. Proven ability to deliver projects like an Airbnb-like platform and a job portal, leveraging modern tools like React, Node.js, and cloud services. Strong problem-solving skills with 350+ coding challenges solved on platforms like LeetCode. Thrive in collaborative environments and enjoy solving complex technical challenges. Currently, I am working as a QA Intern at DJUBO, where I am gaining hands-on experience in software testing, quality assurance processes, and understanding end-to-end product workflows.
 
 </div>
 
@@ -26,13 +23,23 @@ LeetCode. Thrive in collaborative environments and enjoy solving complex technic
 ## 🎓 Education
 **Bhagalpur College of Engineering**  
 *B.Tech in Electronics and Communication Engineering*  
-• CGPA: 8.09/10.0
+• CGPA: 8.22/10.0
 
 ---
 
 ## Internship Experience
+**QA Intern - DJUBO**  
+*Jun 2025 – Present*  
+•Gain hands-on experience in software testing, quality assurance processes, and understanding end-to-end product workflows.
+
+**Web Development Internship - Elevate Labs**  
+*May 2025 – Jun 2025*  
+•Gained hands-on experience in building real-world projects using HTML, CSS, JavaScript, Bootstrap, React,
+ Node.js, Express, and MongoDB.
+•Worked with version control (GitHub) and deployment tools to deliver responsive and functional web applications.
+
 **Salesforce Developer Virtual Internship** – Remote  
-*Aug 2020 – Aug 2024*  
+*Dec 2023 – Jan 2024*  
 • Completed virtual internship as a Salesforce Developer.  
 • Built applications using Salesforce tools in a simulated enterprise setting.  
 • Learned the basics of CRM, Apex development, and Salesforce UI integration.
@@ -94,15 +101,15 @@ LeetCode. Thrive in collaborative environments and enjoy solving complex technic
 ---
 
 ### 📌 Projects : 
+#### 1. [NodeTalk](https://nodetalk-frontend.onrender.com/) - [GitHub](https://github.com/masoommd/real_time_chat_ai)
+Built NodeTalk, a real-time MERN chat app with AI assistant (@ai) powered by Google Gen-AI for instant coding help and suggestions. Integrated Socket.IO, Redis, JWT auth, and MongoDB for scalable communication and secure session management.
+Deployed a SPA using React 19, Vite, and TailwindCSS 4 on Render, featuring a Web-based IDE with WebContainers.
 
-#### 1. [Mystery Message](https://mystrymessage-plum.vercel.app/) - [GitHub](https://github.com/masoommd/mystrymessage.git)
+#### 2. [Mystery Message](https://mystrymessage-plum.vercel.app/) - [GitHub](https://github.com/masoommd/mystrymessage.git)
 Built a Next.js-based web app, Mystery Message, with a clean UI using Tailwind CSS and TypeScript. Implemented authentication with NextAuth.js and form validation with React Hook Form and Zod. Integrated Google AI for message suggestions. Used MongoDB for storage and enabled password reset and account verification features.
 
-#### 2. [Wanderlust](https://wanderlust-cloning-of-airbnb.onrender.com/listings) - [GitHub](https://github.com/masoommd/Wanderlust-Cloning-of-Airbnb-)
+#### 3. [Wanderlust](https://wanderlust-cloning-of-airbnb.onrender.com/listings) - [GitHub](https://github.com/masoommd/Wanderlust-Cloning-of-Airbnb-)
 A comprehensive web application similar to Airbnb, using MongoDB for data storage, Express.js and Node.js for server-side development, and various libraries for authentication, image management, mapping, etc.
-
-#### 3. [Bloog](http://bloog-weld.vercel.app/) - [GitHub](https://github.com/masoommd/Bloog-A-blog-App)
-React blog app with a sleek UI using Tailwind CSS. Smooth navigation with React Router and Redux. Integrated Appwrite for database, storage, and auth. Used React Parser for HTML parsing and React Hook Form for form handling.
 
 #### 4. [Job Spark](https://jobportal-2wks.onrender.com/) - [GitHub](https://github.com/masoommd/jobportal.git)
 Developed a full-stack job portal using React.js, Node.js, and MongoDB, featuring dual interfaces for recruiters and students. Real-time job searching with filters, Redux for state management, and Shadcn UI/Tailwind CSS for UI.
